@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Olia1011/goit-react-homework-06-phbook/static/css/main.3e9427dd.chunk.css",
+    "main.js": "/Olia1011/goit-react-homework-06-phbook/static/js/main.fce6c2cf.chunk.js",
+    "main.js.map": "/Olia1011/goit-react-homework-06-phbook/static/js/main.fce6c2cf.chunk.js.map",
+    "runtime-main.js": "/Olia1011/goit-react-homework-06-phbook/static/js/runtime-main.3ed036de.js",
+    "runtime-main.js.map": "/Olia1011/goit-react-homework-06-phbook/static/js/runtime-main.3ed036de.js.map",
+    "static/js/2.e259df83.chunk.js": "/Olia1011/goit-react-homework-06-phbook/static/js/2.e259df83.chunk.js",
+    "static/js/2.e259df83.chunk.js.map": "/Olia1011/goit-react-homework-06-phbook/static/js/2.e259df83.chunk.js.map",
+    "index.html": "/Olia1011/goit-react-homework-06-phbook/index.html",
+    "precache-manifest.d4968a2a298fb6502d4ec3a990ea72f8.js": "/Olia1011/goit-react-homework-06-phbook/precache-manifest.d4968a2a298fb6502d4ec3a990ea72f8.js",
+    "service-worker.js": "/Olia1011/goit-react-homework-06-phbook/service-worker.js",
+    "static/css/main.3e9427dd.chunk.css.map": "/Olia1011/goit-react-homework-06-phbook/static/css/main.3e9427dd.chunk.css.map",
+    "static/js/2.e259df83.chunk.js.LICENSE.txt": "/Olia1011/goit-react-homework-06-phbook/static/js/2.e259df83.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Olia1011/goit-react-homework-06-phbook/static/media/dancing-script-v14-latin-regular.5c1198f3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ed036de.js",
+    "static/js/2.e259df83.chunk.js",
+    "static/css/main.3e9427dd.chunk.css",
+    "static/js/main.fce6c2cf.chunk.js"
+  ]
+}
